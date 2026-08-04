@@ -32,3 +32,5 @@ body {
     height:100%;
     flex:1;
 }
+
+/* not a good idea to use relative unit for height*/
