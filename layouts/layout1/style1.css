@@ -1,0 +1,25 @@
+#header {
+    height: 100px;
+    background-color: rgb(65, 65, 192);
+}
+
+#main {
+    display:flex;
+}
+
+#sidebar {
+    height:400px;
+    width:300px;
+    background-color: aqua;
+}
+
+#content {
+    height:400px;
+    width:calc(100% - 300px);
+    background-color: aquamarine;
+}
+
+#footer {
+    height: 100px;
+    background-color: rgb(65, 65, 192);
+}
